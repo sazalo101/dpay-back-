@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/sazalo101/dpay-back-/issues"
   },
-  "homepage": "https://github.com/sazalo101/dpay-back-#readme"
+  "homepage": "https://github.com/sazalo101/dpay-back-#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
 }
